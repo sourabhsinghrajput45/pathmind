@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Math",
+    "text": "What is 12 + 15?",
+    "options": ["25", "26", "27", "28"],
+    "answer": "27",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "category": "Math",
+    "text": "Solve: 8 × 7 ÷ 4 = ?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "category": "Math",
+    "text": "What is the derivative of x²?",
+    "options": ["x", "2x", "x²", "2"],
+    "answer": "2x",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "category": "Logic",
+    "text": "If all roses are flowers and some flowers fade quickly, can we say some roses fade quickly?",
+    "options": ["Yes", "No", "Cannot be determined", "All fade quickly"],
+    "answer": "Cannot be determined",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "category": "Logic",
+    "text": "Find the next number in the series: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "36"],
+    "answer": "30",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "category": "Logic",
+    "text": "Which figure does not belong: Triangle, Circle, Rectangle, Cube?",
+    "options": ["Triangle", "Circle", "Rectangle", "Cube"],
+    "answer": "Cube",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "category": "Verbal",
+    "text": "Choose the synonym of 'Eloquent'.",
+    "options": ["Silent", "Fluent", "Rude", "Unclear"],
+    "answer": "Fluent",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "category": "Verbal",
+    "text": "Select the antonym of 'Harmony'.",
+    "options": ["Conflict", "Peace", "Unity", "Agreement"],
+    "answer": "Conflict",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "category": "Verbal",
+    "text": "Fill in the blank: The movie was so _____ that everyone left early.",
+    "options": ["Exciting", "Boring", "Interesting", "Inspiring"],
+    "answer": "Boring",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "category": "Analytical",
+    "text": "Which number does not belong in the group: 3, 5, 7, 9, 11?",
+    "options": ["3", "5", "7", "9"],
+    "answer": "9",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "category": "Analytical",
+    "text": "A train travels 60 km in 1.5 hours. What is its average speed?",
+    "options": ["30 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": "40 km/h",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "category": "Analytical",
+    "text": "Which shape should come next in this pattern sequence: ▲ ■ ▲ ■ ?",
+    "options": ["▲", "■", "◆", "⬟"],
+    "answer": "▲",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "category": "General Knowledge",
+    "text": "Who wrote the national anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Mahatma Gandhi", "Sarojini Naidu"],
+    "answer": "Rabindranath Tagore",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "category": "General Knowledge",
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Mars",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "category": "General Knowledge",
+    "text": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "category": "Math",
+    "text": "If sin(θ) = 1/2, then θ = ?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "30°",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "category": "Logic",
+    "text": "If A = 1, B = 2, C = 3, what does Z equal?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "26",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "category": "Verbal",
+    "text": "Identify the correctly spelled word.",
+    "options": ["Recieve", "Receive", "Recieeve", "Receeve"],
+    "answer": "Receive",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "category": "Analytical",
+    "text": "If 5 pencils cost ₹25, what is the cost of 8 pencils?",
+    "options": ["₹30", "₹35", "₹40", "₹45"],
+    "answer": "₹40",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "category": "General Knowledge",
+    "text": "In which year did India gain independence?",
+    "options": ["1945", "1946", "1947", "1950"],
+    "answer": "1947",
+    "difficulty": "Easy"
+  }
+]
