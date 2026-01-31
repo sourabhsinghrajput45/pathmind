@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pandas
+bcrypt
+python-multipart
+python-jose
+joblib
+typing-extensions
